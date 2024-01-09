@@ -1,1 +1,1 @@
-Esses Desafios estao com todas as classes em uma unica pagina para mostrar os desafios e revisar para estudos futuros
+Cada desafio está em uma única página, apresentando os desafios de forma organizada para facilitar a revisão e estudos futuros. As classes estão dispostas juntas em uma única página, delimitadas pelas chaves {} para proporcionar uma visualização coesa e estruturada. Isso permite uma revisão mais eficiente e a compreensão das relações entre as classes ao mesmo tempo em que mantém a separação e clareza do código.
